@@ -1,0 +1,534 @@
+POINT GUARD (Average Starter = 83.5 / Average Backup = 77)
+TOTAL (79/94)
+STARTERS (30/30)
+94 (-2) Stephen Curry (GSW): All-Around Superstar
+93 (NC) Kyrie Irving (BOS): Offensive Superstar
+92 (+1) Damian Lillard (POR): Offensive Superstar
+92 (+1) Russell Westbrook (OKC): All-Around Superstar
+90 (+4) Chris Paul (HOU): All-Around Superstar
+89 (+1) Kemba Walker (CHA): Athletic Playmaker (from Offensive Star)
+87 (-1) Ben Simmons (PHI): Two-Way Superstar
+87 (+2) Mike Conley (MEM): Two-Way Superstar (from Two-Way Star)
+87 (+2) Kyle Lowry (TOR): All-Around Superstar
+87 (-2) John Wall (WAS): Athletic Playmaker (from Two-Way Superstar)
+86 (+1) Eric Bledsoe (MIL): Two-Way Superstar
+86 (NC) D'Angelo Russell (BKN): Offensive Star
+85 (+2) De'Aaron Fox (SAC): Two-Way Superstar (from Playmaking Finisher)
+83 (+4) Darren Collison (IND): Playmaker
+82 (+6) D.J. Augustin (ORL): Offensive Star (from Crafty Playmaker)
+82 (NC) Trae Young (ATL): Athletic Playmaker (from Offensive Star)
+82 (+4) Ricky Rubio (UTA): Two-Way Point
+82 (+3) Reggie Jackson (DET): All-Around Point Guard
+82 (+4) Jeff Teague (MIN): Playmaker
+81 (-1) Jamal Murray (DEN): Scoring Machine (from Offensive Star)
+80 (+4) Kris Dunn (CHI): Playmaker (from Two-Way Point)
+80 (+3) Dennis Smith Jr. (NYK): Athletic Playmaker
+79 (+2) Elfrid Payton (NOP): Playmaker (from Two-Way Point)
+79 (+2) Lonzo Ball (LAL): Two-Way Point
+78 (+1) Justise Winslow (MIA): Lockdown Defender (from Wing Defender)
+78 (NC) Dejounte Murray (SAS): Lockdown Defender (from Two-Way Star)
+78 (+2) Shai Gilgeous-Alexander (LAC): Lockdown Defender (from All-Around Point Guard)
+77 (+2) Collin Sexton (CLE): Offensive-Minded Point
+76 (+2) Tyler Johnson (PHX): Sharpshooter (from Crafty Offensive-Minded Point)
+73 (+1) Jalen Brunson (DAL): All-Around Point Guard (from Playmaker)
+
+SECOND STRING (29/30)
+84 (+1) Louis Williams (LAC): Offensive Star
+82 (+5) Jeremy Lin (TOR): Offensive Star
+81 (+3) J.J. Barea (DAL): Playmaker (from Crafty Playmaker)
+81 (-1) Spencer Dinwiddie (BKN): Playmaker (from Crafty Playmaker)
+81 (+2) Tony Parker (CHA): Offensive-Minded Point (from Playmaker)
+81 (+2) Derrick White (SAS): Two-Way Point (from Playmaker)
+80 (+4) Rajon Rondo (LAL): Playmaker (from Two-Way Point)
+80 (+3) Monte Morris (DEN): Offensive Star (from Playmaker)
+80 (+1) Emmanuel Mudiay (NYK): Athletic Playmaker (from Offensive Star)
+79 (-1) Goran Dragic (MIA): Playmaker
+79 (+1) Dennis Schroder (OKC): Offensive Star (from Playmaker)
+78 (+5) Ish Smith (DET): Two-Way Point (from Playmaker)
+78 (+3) Tomas Satoransky (WAS): Sharpshooter (from Playmaker)
+78 (+2) T.J. McConnell (PHI): Crafty Offensive Superstar (from Crafty Playmaker)
+78 (+4) Jerian Grant (ORL): Offensive Star (from Crafty Playmaker)
+77 (+1) Quinn Cook (GSW): Crafty Scorer (from Crafty Offensive-Minded Point)
+77 (+3) George Hill (MIL): Sharpshooter (from Two-Way Point)
+77 (+1) Delon Wright (MEM): Perimeter Defender (from )
+76 (+1) Terry Rozier III (BOS): All-Around Point Guard
+76 (+2) Cory Joseph (IND): Perimeter Defender (from Crafty Offensive Star)
+75 (+2) Evan Turner (POR): Scoring Machine (from Two-Way Wing)
+75 (+4) Tyus Jones (MIN): Crafty Offensive-Minded Point
+75 (+3) Ryan Arcidiacono (CHI): Sharpshooter (from Crafty Offensive Star)
+75 (+2) Dante Exum (UTA): Playmaker
+74 (NC) Matthew Dellavedova (CLE): Crafty Playmaker
+73 (-3) Austin Rivers (HOU): All-Around Point Guard (from )
+73 (+1) De'Anthony Melton (PHX): Lockdown Defender (from )
+71 (+2) Jaylen Adams (ATL): Offensive-Minded Point
+71 (+1) Ian Clark (NOP): Shoot-First Point (from Aggressive Scorer)
+
+THIRD STRING
+81 (+1) Isaiah Thomas (DEN): Athletic Playmaker
+80 (+5) Trey Burke (DAL): Offensive Star (from Playmaker)
+78 (+2) Fred VanVleet (TOR): Two-Way Point (from Crafty Playmaker)
+77 (+3) Shelvin Mack (CHA): Playmaker
+76 (+1) Patty Mills (SAS): Offensive-Minded Point (from Playmaker)
+76 (+2) Markelle Fultz (ORL): Two-Way Point (from Playmaker)
+76 (+4) Frank Mason (SAC): Reliable Playmaker (from Playmaker)
+76 (+8) Kadeem Allen (NYK): Playmaker (from Two-Way Guard)
+73 () Isaiah Canaan (MIL): All-Around Point Guard (from )
+73 (NC) Raul Neto (UTA): Playmaker (from Two-Way Point)
+72 (NC) Frank Ntilikina (NYK): Lockdown Defender
+72 (+1) Chasson Randle (WAS): Offensive-Minded Point (from Penetrating Point)
+72 (NC) Brad Wanamaker (BOS): All-Around Point Guard (from Offensive-Minded Point)
+71 (+1) Jimmer Fredette (PHX): Crafty Offensive-Minded Point (from Shoot-First Point)
+70 (+1) Elie Okobo (PHX): Reliable Playmaker (from Playmaker)
+70 (+1) Jerryd Bayless (MIN): Offensive-Minded Point (from Shoot-First Point)
+70 () Devonte Graham (CHA): Two-Way Point (from )
+70 (+2) Trevon Duval (MIL): Pass-First Point
+69 () Jevon Carter (MEM): Lockdown Defender (from )
+68 (+2) Daryl Macon (DAL): Crafty Offensive-Minded Point (from Perimeter Threat)
+68 () Joe Chealey (CHA): Reliable Playmaker (from )
+67 () Jared Terrell (MIN): Shoot-First Point (from )
+
+FREE AGENT
+75 () Cameron Payne (FA): Two-Way Point (from )
+75 (+3) Milos Teodosic (FA): Crafty Offensive Superstar (from Crafty Offensive Star)
+71 () Wade Baldwin (FA): Reliable Playmaker (from )
+69 () Gary Payton II (FA): Pass-First Point (from )
+66 (NC) Kobi Simmons (FA): Shoot-First Penetrator (from Athletic Point Guard)
+
+UNEDITED SECOND STRING (1)
+76 () Yogi Ferrell (SAC):
+
+UNEDITED THIRD STRING
+76 (X) Shabazz Napier (BKN): Offensive-Minded Point
+75 (X) Raymond Felton (OKC): Crafty Offensive-Minded Point
+71 () Jose Calderon (DET):
+67 () Chris Chizzola (HOU):
+
+SHOOTING GUARD (Average Starter = 79)
+TOTAL (84/105)
+STARTER (29/30)
+89 (+4) Jrue Holiday (NOP): All-Around Superstar (from Two-Way Superstar)
+89 (+2) Victor Oladipo (IND): Two-Way Superstar (from Two-Way Star)
+88 (+2) Devin Booker (PHX): Offensive Superstar (from Offensive Star)
+87 (NC) Bradley Beal (WAS): Scoring Machine (from Playmaking Finisher)
+86 (-1) Donovan Mitchell (UTA): Two-Way Superstar
+85 (+1) Zach LaVine (CHI): Versatile Playmaker
+84 (-1) C.J. McCollum (POR): Sharpshooter (from Premier Perimeter Threat)
+83 (NC) Malcolm Brogdon (MIL): Sharpshooter (from Skilled Sharpshooter)
+83 (NC) Buddy Hield (SAC): Sharpshooter
+83 (-5) Klay Thompson (GSW): Elite Scorer (from Two-Way Star)
+83 (+4) Marcus Smart (BOS): Lockdown Defender (from Two-Way Guard)
+81 (+1) J.J. Redick (PHI): Sharpshooter
+81 (NC) Caris LeVert (BKN): Versatile Playmaker (from Elusive Finisher)
+80 (+4) Danny Green (TOR): Two-Way Guard (from Perimeter Defender)
+80 (-2) Gary Harris (DEN): Two-Way Guard
+80 (+4) Evan Fournier (ORL): Premier Perimeter Threat (from Two-Way Guard)
+80 (+2) Tim Hardaway Jr (DAL): Sharpshooter (from Aggressive Scorer)
+79 (-1) Andrew Wiggins (MIN): Athletic Finisher (from Athletic Inside-Outside Threat)
+79 (-2) Brandon Ingram (LAL): All-Around Shooting Guard (from Versatile Offensive Wing)
+78 (+2) Nicolas Batum (CHA): All-Around Shooting Guard (from Offensive-Minded Wing)
+78 (+2) Patrick Beverley (LAC): Lockdown Defender
+78 (+2) Eric Gordon (HOU): All-Around Shooting Guard (from Two-Way Guard)
+78 (+3) Avery Bradley (MEM): Sharpshooter (from Lockdown Defender)
+78 (+3) Bryn Forbes (SAS): Sharpshooter
+76 (+2) Damyean Dotson (NYK): Sharpshooter
+76 (NC) Dion Waiters (MIA): All-Around Shooting Guard (from Aggressive Scorer)
+75 (+4) Kevin Huerter (ATL): Sharpshooter (from Skilled Shooter)
+75 (-1) Andre Roberson (OKC): Perimeter Defender
+74 (NC) Brandon Knight (CLE): Skilled Shooter (from Playmaker)
+
+SECOND STRING (25/30)
+85 (+3) Derrick Rose (MIN): Skilled Sharpshooter (from Athletic Playmaker)
+81 (+2) Jaylen Brown (BOS): Lockdown Defender
+80 (+3) Jordan Clarkson (CLE): Scoring Machine (from Premier Perimeter Threat)
+80 (+1) Dwyane Wade (MIA): Elusive Finisher (from Two-Way Guard)
+80 (+1) Jeremy Lamb (CHA): Sharpshooter
+78 (+1) Kent Bazemore (ATL): Lockdown Defender
+78 (+4) Rodney Hood (POR): Sharpshooter (from Premier Perimeter Threat)
+77 (NC) Wesley Matthews (IND): Two-Way Guard (from Versatile Playmaker)
+77 (NC) Josh Hart (LAL): Lockdown Defender (from Two-Way Guard)
+77 (+2) Iman Shumpert (HOU): Lockdown Defender(from )
+77 (NC) Malik Beasley (DEN): Two-Way Guard (from )
+77 (+2) Marco Belinelli (SAS): Sharpshooter
+76 (+1) E'Twaun Moore (NOP): Scoring Machine (from Aggressive Scorer)
+76 (+2) Garrett Temple (LAC): Two-Way Guard
+76 (NC) Justin Holiday (MEM): Two-Way Guard
+76 (+4) Shaquille Harrison (CHI): Lockdown Defender (from Perimeter Defender)
+76 (+2) Alec Burks (SAC): Sharpshooter (from Two-Way Guard)
+76 (+2) Norman Powell (TOR): Two-Way Guard
+76 (+3) Devin Harris (DAL): All-Around Shooting Guard (from Versatile Playmaker)
+76 (+1) Jamal Crawford (PHX): Sharpshooter (from Premier Perimeter Threat)
+75 (+3) Royce O'Neale (UTA): Perimeter Defender (from Perimeter Threat)
+75 (NC) Shaun Livingston (GSW): Two-Way Point (from Crafty Playmaker)
+75 (+4) Sterling Brown (MIL): Lockdown Defender (from Perimeter Threat)
+74 (+1) Allonzo Trier (NYK): Aggressive Scorer (from Skilled Shooter)
+74 (+1) Jonathon Simmons (PHI): Two-Way Guard (from Perimeter Defender)
+72 (+3) Jordan McRae (WAS): Sharpshooter (from Aggressive Scorer)
+
+THIRD STRING
+80 (+3) Tyreke Evans (IND): Two-Way Guard (from Versatile Playmaker)
+78 (+4) Courtney Lee (DAL): Sharpshooter
+76 () Kentavious Caldwell-Pope (LAL): Sharpshooter
+76 () Josh Okogie (MIN): Superior Lockdown Defender (from )
+75 (-1) Rodney McGruder (MIA): Two-Way Guard (from Perimeter Defender)
+75 (NC) Wayne Ellington (DET): Sharpshooter
+75 (+2) Malik Monk (CHA): Aggressive Scorer (from )
+75 (+1) Pat Connaughton (MIL): Lockdown Defender (from Shooter)
+75 (+3) Zhaire Smith (PHI): Athletic Shooting Guard
+75 (+2) Lonnie Walker (SAS): Athletic Scorer (from Athletic Shooting Guard)
+74 (+7) Damion Lee (GSW): Perimeter Defender (from Perimeter Threat)
+74 (+4) Antonio Blakeney (CHI): Sharpshooter (from Aggressive Scorer)
+73 (+1) Jacob Evans III (GSW): Two-Way Guard (from Two-Way Wing)
+72 () Nik Stauskas (CLE): Sharpshooter (from )
+72 () Hamidou Diallo (OKC): Elite Athlete (from )
+72 (+1) Donte DiVincenzo (MIL): Athletic Scorer (from Athletic Shooting Guard)
+72 (-3) J.R. Smith (CLE): Aggressive Scorer (from Two-Way Guard)
+72 (+1) Shake Milton (PHI): Skilled Shooter
+71 (+1) Tyrone Wallace (LAC): Two-Way Guard (from Perimeter Defender)
+71 (+3) Frank Jackson (NOP): Athletic Finisher (from Athletic Scorer)
+71 () John Jenkins (NYK): Sharpshooter (from )
+71 (+2) Grayson Allen (UTA): Shooter (from Sharpshooter)
+71 (+3) Tyler Dorsey (MEM): Shooter
+70 (-1) Ryan Broekhoff (DAL): Aggressive Scorer (from Perimeter Threat)
+70 (+5) Naz Mitrou-Long (UTA): Two-Way Point (from Perimeter Threat)
+68 (-4) Patrick McCaw (TOR): Perimeter Defender
+68 (-2) Timothe Luwawu-Cabarrot (CHI): Wing Defender
+68 () Edmond Sumner (IND): Athletic Shooting Guard (from )
+68 () Brandon Sampson (CHI): Perimeter Threat (from )
+68 (+2) Jordan Loyd (TOR): Perimeter Threat (from Shoot-First Point)
+68 (+2) P.J. Dozier (BOS): Perimeter Defender (from Playmaker)
+68 () J.P. Macura (CHA): Perimeter Threat (from )
+66 () R.J. Hunter (BOS): Sharpshooter (from )
+
+FREE AGENT
+73 () Nick Young (FA): Two-Way Guard (from )
+72 () Ron Baker (FA): Two-Way Guard (from )
+69 (+3) Jabari Bird (FA): Shooter (from Perimeter Threat)
+68 (+1) Andre Ingram (FA): Sharpshooter (from )
+
+UNEDITED STARTERS (1)
+72 () Langston Galloway (DET):
+
+UNEDITED SECOND STRING (4)
+72 () Allen Crabbe (BKN):
+71 () Luke Kennard (DET):
+70 () Terrance Ferguson (OKC):
+70 () Melvin Frazier (ORL):
+UNEDITED THIRD STRING
+74 () Troy Daniels (PHX):
+70 (X) Seth Curry (POR): Crafty Offensive-Minded Point
+X () C.J. Williams (MIN):
+
+SMALL FORWARD (Average Starter = 82)
+TOTAL (81/103)
+STARTERS (28/30)
+98 (+2) Kevin Durant (GSW): Offensive Superstar (from All-Around Superstar)
+97 (-1) LeBron James (LAL): All-Around Superstar
+95 (-2) James Harden (HOU): Two-Way Superstar (from Offensive Superstar)
+94 (-1) Kawhi Leonard (TOR): All-Around Superstar
+93 (-1) Paul George (OKC): Two-Way Superstar
+90 (+2) Jimmy Butler (PHI): Two-Way Star
+89 (+2) Luka Doncic (DAL): Playmaking Finisher (from Offensive Star)
+89 (+2) DeMar DeRozan (SAS): Playmaking Finisher
+86 (+4) Khris Middleton (MIL): Two-Way Star (from Two-Way Wing)
+86 (+1) Jayson Tatum (BOS): Two-Way Wing (from Offensive Star)
+85 (+5) Bojan Bogdanovic (IND): Sharpshooter
+83 (+3) Otto Porter (CHI): Sharpshooter (from Two-Way Wing)
+83 (+3) Robert Covington (MIN): Wing Defender
+83 (+9) Kyle Anderson (MEM): Wing Defender
+81 (+1) Harrison Barnes (SAC): Two-Way Wing (from All-Around Small Forward)
+81 (+1) Josh Richardson (MIA): Two-Way Wing
+81 (+2) Joe Ingles (UTA): Wing Defender (from Two-Way Wing)
+80 (+1) Will Barton (DEN): All-Around Small Forward (from Two-Way Wing)
+78 (+2) Trevor Ariza (WAS): Two-Way Wing (from Wing Defender)
+77 (+1) Joe Harris (BKN): Scoring Wing (from Sharpshooter)
+77 (NC) Taurean Prince (ATL): Scoring Wing (from Shooter)
+77 (+4) Cedi Osman (CLE): Two-Way Wing
+76 (+2) Landry Shamet (LAC): Sharpshooter
+75 (+1) Mikal Bridges (PHX): Two-Way Wing (from Two-Way Guard)
+74 (-1) Miles Bridges (CHA): Slashing Wing (from )
+73 (-2) Kevin Knox (NYK): Shooter
+73 () Bruce Brown (DET): Lockdown Defender (from )
+73 () Kenrich Williams (NOP): Wing Defender (from All-Around Small Forward)
+
+SECOND STRING (25/30)
+83 (+2) Gordon Hayward (BOS): All-Around Small Forward
+82 (+7) Andre Iguodala (GSW): Lockdown Defender (from Two-Way Wing)
+80 (+1) Bogdan Bogdanovic (SAC): Offensive-Minded Wing (from )
+79 (+6) Darius Miller (NOP): Sharpshooter
+79 (+5) Gerald Green (HOU): Sharpshooter
+78 (+4) Reggie Bullock (LAL): Two-Way Guard (from Sharpshooter)
+77 (+4) James Ennis (PHI): Two-Way Wing
+76 (+3) Dorian Finney-Smith (DAL): Two-Way Wing
+76 (+4) Derrick Jones Jr (MIA): Wing Defender (from Athletic Small Forward)
+76 (NC) Juan Hernangomez (DEN): Two-Way Wing (from Perimeter Threat)
+76 (+3) Tony Snell (MIL): Sharpshooter (from Two-Way Wing)
+76 (+1) Kyle Korver (UTA): Sharpshooter
+76 (+2) Doug McDermott (IND) Elite Inside Scorer (from Scoring Wing)
+76 (+3) Mario Hezonja (NYK): Two-Way Wing (from Shooter)
+76 (+3) Glenn Robinson (DET): Sharpshooter (from )
+76 (+5) Wayne Selden Jr (CHI): Versatile Offensive Wing (from Inside Scoring Two-Guard)
+76 (+3) David Nwaba (CLE): Lockdown Defender (from Two-Way Guard)
+76 (+4) Luol Deng (MIN): Wing Defender (from Interior Defender)
+75 (+6) Jake Layman (POR): Two-Way Wing (from )
+75 () DeAndre Bembry (ATL):
+75 (+3) Sindarius Thornwell (LAC): Two-Way Wing (from Sharpshooter)
+74 (NC) Dillon Brooks (MEM): Two-Way Wing (from Aggressive Scorer)
+74 (+1) Wesley Johnson (WAS): Two-Way Wing (from )
+73 (+1) Dante Cunningham (SAS): Two-Way Wing (from Two-Way Power Forward)
+72 () Dwayne Bacon (CHA): Scoring Wing (from )
+69 (+1) Malcolm Miller (TOR): Perimeter Threat
+
+THIRD STRING
+78 (+1) Lance Stephenson (LAL):
+78 (+2) Thabo Sefolosha (UTA): Wing Defender
+76 (+4) Justin Jackson (DAL): Scoring Machine (from Shooter)
+76 (+2) Corey Brewer (SAC): Two-Way Wing
+76 (+2) Denzel Valentine (CHI): Versatile Offensive Wing
+75 (+1) Stanley Johnson (NOP): Wing Defender (from )
+75 () Danuel House (HOU): Scoring Wing (from )
+75 () Justin Anderson (ATL): Two-Way Wing (from )
+75 (+2) C.J. Miles (MEM): Two-Way Wing (from )
+74 (NC) Furkan Korkmaz (PHI): Perimeter Threat
+74 (+2) Quincy Pondexter (SAS): Two-Way Wing
+73 (+1) Semi Ojeleye (BOS): Two-Way Wing (from Shooter)
+73 (+2) Troy Brown Jr (WAS): Two-Way Wing
+73 (+1) Alfonzo McKinnie (GSW): Shooter (from Scoring Wing)
+72 (+2) Torrey Craig (DEN): Wing Defender (from )
+72 (-1) Solomon Hill (NOP): Wing Defender
+72 (+1) Chandler Hutchison (CHI): Shooter
+72 (+3) Jaron Blossomgame (CLE): Shooter (from Faceup Four)
+71 (+4) Devin Robinson (WAS): Quality Rebounder (from Shooter)
+70 () Jerome Robinson (LAC): Perimeter Threat (from )
+70 (+2) Ben Moore (SAS): Quality Rebounder
+70 (+3) Rawle Alkins (CHI): Shooter
+70 (+4) Bonzie Colson (MIL): Scoring Wing (from Perimeter Threat)
+70 () Yuta Watanabe (MEM): Perimeter Threat (from )
+68 (+2) Haywood Highsmith (PHI): Perimeter Threat (from Raw Prospect)
+68 () Julian Washburn (MEM): Inside Scoring Wing (from )
+67 (NC) Deng Adel (CLE): Shooter (from )
+
+FREE AGENT
+71 (+5) Daniel Hamilton (FA): Skilled Shooter (from Perimeter Threat)
+70 () B.J. Johnson (FA): Perimeter Threat (from )
+
+UNEDITED STARTERS (2)
+76 () Jonathan Issac (ORL): Lockdown Defender
+72 () Maurice Harkless (POR):
+UNEDITED SECOND STRING (4)
+78 () Kelly Oubre Jr (PHX):
+77 () Terrence Ross (ORL):
+76 () DeMarre Carroll (BKN):
+66 () Adel Nader (OKC):
+UNEDITED THIRD STRING
+75 () Josh Jackson (PHX): Slashing Guard
+72 () Deonte Burton (OKC):
+72 () Keita Bates-Diop (MIN):
+70 () Davon Reed (IND):
+69 () Sviatoslav Mykhailiuk (DET):
+69 () Vince Edwards (HOU):
+66 () Cameron Reynolds (MIN):
+
+
+POWER FORWARD (Average Starter = 79)
+TOTAL (75/)
+STARTERS (28/30)
+95 (NC) Giannis Antetokounmpo (MIL): All-Around Superstar (from Two-Way Superstar)
+88 (+1) Blake Griffin (DET): Offensive Superstar (from Elite Low Post Star)
+86 (-2) Kristaps Porzingis (DAL): Two-Way Star (from Inside-Outside Star)
+86 (NC) Kevin Love (CLE): Rebounding Scoring Machine (from Low Post Star)
+85 (-1) Tobias Harris (PHI): Inside-Outside Threat
+85 (+2) Paul Millsap (DEN): Two-Way Star
+85 (+2) Danilo Gallinari (LAC): Two-Way Player (from Sharpshooter)
+84 (-1) Julius Randle (NOP): Low Post Star (from Rebounding Specialist)
+84 (-1) Pascal Siakam (TOR): Two-Way Player (from Two-Way Star)
+84 (NC) John Collins (ATL): Low Post Star (from Rebounding Specialist)
+84 (+4) Derrick Favors (UTA): Two-Way Star (from Low Post Star)
+84 (NC) Draymond Green (GSW): Two-Way Player (from All-Around Star)
+83 (+3) Jaren Jackson Jr (MEM): Two-Way Player (from Elite Defender)
+83 (+2) Rudy Gay (SAS): All-Around Star (from Inside-Outside Star)
+82 (NC) Lauri Markkanen (CHI): Faceup Four (from Low Post Threat)
+81 (+5) Noah Vonleh (NYK): Paint Protector (from Tenacious Rebounder)
+81 (+4) Kelly Olynyk (MIA): Low Post Threat
+80 (+3) Thaddeus Young (IND): Two-Way Star (from Interior Defender)
+80 (NC) Marcus Morris Sr (BOS): Inside-Outside Star (from Faceup Four)
+79 (-5) Kyle Kuzma (LAL): Low Post Star
+79 (+1) Jeff Green (WAS): Faceup Four (from Two-Way Power Forward)
+79 (NC) Dario Saric (MIN): Two-Way Power Forward (from Offensive-Minded Four)
+78 (NC) Nemanja Bjelica (SAC): Faceup Four (from Offensive-Minded Four)
+78 (+2) Jerami Grant (OKC): Two-Way Power Forward (from )
+78 (+3) Marvin Williams (CHA): Two-Way Power Forward (from Offensive-Minded Four)
+77 (-4) T.J. Warren (PHX): Offensive-Minded Four (from Elite Inside Scorer)
+76 (+1) P.J. Tucker (HOU): Elite Defender (from Lockdown Defender)
+71 () Rodions Kurucs (BKN): Two-Way Power Forward (from )
+
+SECOND STRING (24/28)
+83 (+2) Nikola Mirotic (MIL): Faceup Four
+80 (+3) Larry Nance Jr (CLE): Rebounding Specialist
+80 (+2) Taj Gibson (MIN): Low Post Threat (from Two-Way Power Forward)
+79 (+3) Rondae Hollis-Jefferson (BKN): All-Around Power Forward (from )
+78 (-1) Marvin Bagley (SAC): Low Post Threat (from )
+78 (+3) James Johnson (MIA): Two-Way Star (from Crafty Finisher)
+78 (+5) Cheick Diallo (NOP): Rebounding Specialist
+78 () Ivan Rabb (MEM): Low Post Star (from )
+77 (-2) Michael Kidd-Gilchrist (CHA): All-Around Power Forward (from )
+77 (-1) JaMychal Green (LAC): Faceup Four (from Tenacious Rebounder)
+77 (+2) Dirk Nowitzki (DAL): Crafty Inside-Outside Threat
+77 (+1) Jonas Jerebko (GSW): Faceup Four (from Offensive-Minded Four)
+77 (NC) Jabari Parker (WAS): Low Post Threat (from Low Post Star)
+77 (+2) Markieff Morris (OKC): Crafty Inside-Outside Threat (from Faceup Four)
+77 (+1) Davis Bertans (SAS): Faceup Four
+76 (+3) Mike Muscala (LAL): Faceup Four (from Faceup Center)
+75 (-1) Zach Collins (POR): Inside Scorer (from Low Post Threat)
+75 (+2) Vince Carter (ATL): Faceup Four (from Perimeter Threat)
+75 (+3) Thon Maker (DET): Faceup Four (from Faceup Center)
+74 (-2) Jae Crowder (UTA): Two-Way Power Forward (from Two-Way Wing)
+74 (+1) Mike Scott (PHI): Faceup Four
+73 (-1) O.G. Anunoby (TOR): Interior Defender (from Wing Defender)
+72 (+4) Lance Thomas (NYK): Faceup Four (from Two-Way Power Forward)
+71 (-1) T.J. Leaf (IND): Low Post Threat (from )
+68 (+1) Gary Clark (HOU): Two-Way Power Forward (from Faceup Four)
+THIRD STRING
+78 (+5) Maxi Kleber (DAL): Elite Defender (from Offensive-Minded Center)
+77 (+1) Ersan Ilyasova (MIL): Faceup Four
+77 (+5) Anthony Tolliver (MIN): Faceup Four
+76 (+2) Wilson Chandler (LAC): Two-Way Power Forward (from Two-Way Wing)
+75 (+2) Marquese Chriss (CLE): All-Around Power Forward (from Faceup Center)
+75 (+4) Jonah Bolden (PHI): Interior Defender
+75 (+3) Johnathan Motley (LAC): Rebounding Specialist (from Tenacious Rebounder)
+74 (+2) Ryan Anderson (MIA): Faceup Four
+73 (NC) Sam Dekker (WAS): All-Around Power Forward (from Reserve)
+73 (NC) D.J. Wilson (MIL): Faceup Four (from Offensive-Minded Four)S
+73 (+5) Christian Wood (NOP): Tenacious Rebounder (from Raw Prospect)
+73 (+1) Tyler Cavanaugh (UTA): Faceup Four (from Offensive-Minded Four)
+72 (-3) Luc Mbah a Moute (LAC): Elite Defender
+72 (NC) Omari Spellman (ATL): Faceup Four (from Offensive-Minded Four)
+72 (-3) Chandler Parsons (MEM): Faceup Four (from Two-Way Wing)
+71 (NC) Jared Dudley (BKN): Two-Way Power Forward (from )
+71 () Henry Ellenson (NYK): Inside Scorer (from )
+71 (+1) Alex Poythress (ATL): Interior Defender (from Rebounding Four)
+70 (+5) Bruno Caboclo (MEM): Faceup Four (from Raw Prospect)
+70 (+1) Guerschon Yabusele (BOS): Offensive-Minded Four (from Faceup Four)
+70 (NC) Udonis Haslem (MIA): Interior Defender
+69 (+4) Isaiah Hicks (NYK): Interior Defender (from Athletic Power Forward)
+69 (NC) Chimezie Metu (SAS): Rebounding Four
+68 (-1) Georges Niang (UTA): Faceup Four (from Perimeter Threat)
+68 (+1) Marcus Derrickson (GSW): Offensive-Minded Four
+67 (NC) Kostas Antetokounmpo (DAL): Rebounding Four
+
+FREE AGENT
+76 (+3) Omri Casspi (FA): Two-Way Power Forward (from Rebounding Wing)
+
+UNEDITED STARTER (2)
+81 () Aaron Gordon (ORL): All-Around Power Forward
+76 () Al-Farouq Aminu (POR): Elite Defender
+UNEDITED SECOND STRING (2)
+75 () Trey Lyles (DEN):
+70 () Jarell Martin (ORL):
+UNEDITED THIRD STRING
+74 () Jon Leuer (DET):
+72 () Patrick Patterson (OKC):
+70 () Alize Johnson (IND):
+
+CENTER (Average Starter = 85)
+TOTAL (78/)
+STARTER (30/30)
+95 (NC) Anthony Davis (NOP): All-Around Superstar (from Two-Way Superstar)
+94 (+4) Karl-Anthony Towns (MIN): Rebounding Scoring Machine
+93 (NC) Joel Embiid (PHI): Two-Way Star
+92 (-1) Nikola Jokic (DEN): All-Around Superstar (from Offensive Superstar)
+90 (+1) Rudy Gobert (UTA): Paint Protector
+88 (+1) Nikola Vucevic (ORL): Rebounding Scoring Machine
+88 (+6) Jonas Valanciunas (MEM): Rebounding Scoring Machine
+87 (+2) Jusuf Nurkic (POR): Two-Way Center (from Low Post Threat)
+87 (-1) LaMarcus Aldridge (SAS): Crafty Inside-Outside Threat (from Low Post Star)
+86 (NC) Al Horford (BOS): Two-Way Star
+86 (+2) Steven Adams (OKC): Two-Way Star (from Paint Protector)
+86 (NC) Andre Drummond (DET): Rebounding Specialist (from Two-Way Star)
+86 (+3) DeAndre Jordan (NYK): Elite Paint Protector (from Defensive Star)
+85 (-1) Clint Capela (HOU): Rebounding Specialist (from Elite Paint Protector)
+85 (+2) DeAndre Ayton (PHX): Low Post Star
+85 (+3) Myles Turner (IND): Two-Way Star (from Low Post Star)
+84 (-4) DeMarcus Cousins (GSW): All-Around Star (from Offensive Superstar)
+84 (+4) Dwight Howard (WAS): Rebounding Specialist (from Elite Paint Protector)
+83 (+1) Serge Ibaka (TOR): Two-Way Star (from Two-Way Center)
+82 (+3) JaVale McGee (LAL): Low Post Star (from Tenacious Rebounder)
+82 (+1) Tristan Thompson (CLE): Rebounding Specialist
+82 (+3) Brook Lopez (MIL): Two-Way Center (from Low Post Threat)
+82 (+4) Cody Zeller (CHA): Elite Interior Defender (from Interior Defender)
+80 (+1) Bam Adebayo (MIA): Elite Paint Protector (from Rebounding Specialist)
+80 (-1) Jarrett Allen (BKN): (from Rebounding Specialist)
+80 (NC) Willie Cauley-Stein (SAC): All-Around Center (from Rebounding Specialist)
+80 (+4) Dwight Powell (DAL): All-Around Center (from Inside Scorer)
+79 (+1) Wendell Carter Jr (CHI): Low Post Star
+78 (+1) Alex Len (ATL): Tenacious Rebounder
+78 (+1) Ivica Zubac (LAC): Tenacious Rebounder (from Tenacious Rebounder)
+
+SECOND STRING (25/30)
+86 (+2) Marc Gasol (TOR): Two-Way Star (from Two-Way Center)
+86 (+2) Hassan Whiteside (MIA): Low Post Star (from Elite Paint Protector)
+86 (+4) Enes Kanter (POR): Low Post Star
+85 (+3) Domantas Sabonis (IND): Low Post Star
+83 (NC) Montrezl Harrell (LAC): Low Post Star
+82 (+3) Pau Gasol (MIL): Low Post Star (from )
+81 (+5) Boban Marjanovic (PHI): Tenacious Rebounder
+81 (+4) DeWayne Dedmon (ATL): Two-Way Star (from Two-Way Center)
+80 (+8) Mitchell Robinson (NYK): Rebounding Specialist (from Rebounding Center)
+80 (+1) Bobby Portis (WAS): Rebounding Scoring Machine (from Low Post Star)
+80 (+3) Jakob Poetl (SAS): Tenacious Rebounder
+80 (+3) John Henson (CLE): Two-Way Center (from Tenacious Rebounder)
+80 (+3) Nerlens Noel (OKC): Paint Protector (from Tenacious Rebounder)
+79 (+3) Aron Baynes (BOS): Paint Protector (from Faceup Center)
+79 (+1) Kenneth Faried (HOU): Rebounding Specialist
+79 (+4) Tyson Chandler (LAL): Paint Protector (from Tenacious Rebounder)
+79 (+4) Ekpe Udoh (UTA): Interior Defender
+78 (+1) Jahlil Okafor (NOP): Low Post Threat
+78 (+1) Mason Plumlee (DEN): Tenacious Rebounder
+78 (+3) Gorgui Dieng (MIN): (from Two-Way Center)
+78 (+6) Joakim Noah (MEM): :Tenacious Rebounder
+77 (+1) Kevon Looney (GSW): Elite Defender (from Tenacious Rebounder)
+77 (+1) Bismack Biyombo (CHA): Tenacious Rebounder (from Tenacious Rebounder)
+77 (+1) Salah Mejri (DAL): Tenacious Rebounder
+76 (+4) Robin Lopez (CHI): Low Post Threat (from Two-Way Center)
+
+THIRD STRING
+81 (+4) Willy Hernangomez (CHA): Tenacious Rebounder
+80 () Kyle O'Quinn (IND): Paint Protector (from )
+80 (+6) Andrew Bogut (GSW): Paint Protector
+78 (NC) Thomas Bryant (WAS): Low Post Threat (from Faceup Center)
+78 (-1) Nene (HOU): Low Post Threat (from )
+77 (+2) Daniel Theis (BOS): All-Around Center (from Tenacious Rebounder)
+76 (+3) Ian Mahinmi (WAS): Interior Defender
+76 (+2) Robert Williams (BOS): Rebounding Specialist
+76 (+2) Ante Zizic (CLE): Tenacious Rebounder
+75 (NC) Damian Jones (GSW): Two-Way Center
+75 (+1) Amir Johnson (PHI): Two-Way Center
+75 (+4) Channing Frye (CLE): Crafty Inside-Outside Threat (from Offensive-Minded Center)
+74 (-1) Jordan Bell (GSW): Interior Defender
+74 (-2) Frank Kaminsky (CHA): Low Post Threat (from )
+74 (+2) Cristiano Felicio (CHI): Inside Scorer (from Tenacious Rebounder)
+74 () Deyonta Davis (ATL): Interior Defender (from )
+73 (+1) Luke Kornet (NYK): Two-Way Center (from Offensive-Minded Center)
+72 (+4) Chris Boucher (TOR): Tenacious Rebounder (from Rebounding Four)
+72 (+2) Justin Patton (PHI): Inside Scorer (from Low Post Threat)
+72 (+5) Angel Delgado (LAC): Tenacious Rebounder (from Inside Scorer)
+71 (+1) Donatas Motiejunas (SAS): Low Post Threat (from Inside Scorer)
+71 (+4) Isaiah Hartenstein (HOU): Faceup Center (from )
+70 (+3) Drew Eubanks (SAS): Low Post Threat
+69 (-1) Tony Bradley (UTA): Inside Scorer
+69 (+2) Johnathan Williams (LAL): Rebounding Center (from Rebounding Four)
+
+FREE AGENT
+78 (+2) Marcin Gortat (FA): Tenacious Rebounder
+76 () Tyler Zeller (ATL): Low Post Star (from )
+73 (+3) Jason Smith (FA): Faceup Center
+
+UNEDITED SECOND STRING (5)
+77 () Richaun Holmes (PHX):
+77 () Mohamed Bamba (ORL)
+77 () Ed Davis (BKN):
+76 () Zaza Pachulia (DET):
+74 () Harry Giles (SAC):
+UNEDITED THIRD STRING
+74 () Meyers Leonard (POR):
+73 () Kosta Koufos (SAC):
+71 () Skal Labissiere (POR):
